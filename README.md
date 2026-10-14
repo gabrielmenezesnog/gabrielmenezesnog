@@ -18,25 +18,8 @@
 Full Stack Developer with **4 years of experience** building web and mobile applications for national and international teams. I like owning the whole lifecycle: architecture, infrastructure, frontend, backend, cloud deployment, mobile publishing and product.
 
 - 🏥 **Full Stack Developer at [Volta Health](https://volta.health)** (USA, remote): university healthcare management system, React Native, React and Express + Prisma
-- 🏋️ **Founder of Health & Lifts**: an AI-powered fitness platform for personal trainers and students, live on Google Play
 - 🤝 Code reviews, mentoring junior developers and working closely with QA and product
 - 🤖 Daily user of AI tooling (Claude, Cursor, Graphify) for faster, cleaner engineering
-
----
-
-### 🚀 Featured: Health & Lifts
-
-> An AI-powered fitness platform, built and launched solo, from the cloud infrastructure to the store release.
-
-| | |
-|---|---|
-| 📱 **Mobile app** | React Native + Expo, published on Google Play (internal, closed and production tracks) |
-| 🛠️ **Admin console** | Next.js, with feature flags to turn screens and logic on or off without a deploy, subscriptions, support tickets, campaigns and business settings |
-| 🧠 **AI features** | Training and nutrition with OpenAI GPT models, embeddings and RAG, plus AI photo moderation |
-| 💳 **Payments** | Stripe subscriptions, Stripe Connect payouts, RevenueCat and Google Play Billing |
-| ☁️ **Infrastructure** | AWS (Cognito, Aurora PostgreSQL, Lambda, S3, KMS, Route 53, Secrets Manager, CloudWatch), Terraform and GitHub Actions |
-| 🔐 **Auth** | Cognito with MFA, JWT, secure token storage and Rekognition Face Liveness |
-| 🥗 **Nutrition** | Barcode scanning and food search across TACO, USDA FoodData Central and Open Food Facts |
 
 ---
 
@@ -82,7 +65,6 @@ Full Stack Developer with **4 years of experience** building web and mobile appl
 
 | Role | Company | Period |
 |---|---|---|
-| Founder & Full Stack Developer | **Health & Lifts** | Dec 2025 – present |
 | Full Stack Developer | **Volta Health** 🇺🇸 | Feb 2025 – present |
 | Frontend Developer | **Multiplica Crédito & Investimento** | Aug 2024 – Feb 2025 |
 | Full Stack Developer | **Grupo Irrah – Plug Chat** | Sep 2023 – Aug 2024 |
