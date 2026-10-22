@@ -15,18 +15,18 @@
 
 ---
 
-### 👋 About me
+### About me
 
 Full Stack Developer with **5 years of experience** building web and mobile applications for national and international teams. I like owning the whole lifecycle: architecture, infrastructure, frontend, backend, cloud deployment, mobile publishing and product.
 
-- 🏥 **Full Stack Developer at [Volta Health](https://volta.health)** (USA, remote): university healthcare management system, React Native, React and Express + Prisma
-- 🏋️ **Founder & Full Stack Developer of [Health & Lifts](#health-and-lifts)**, an AI-powered fitness platform for personal trainers and students that I built end to end (Dec 2025 – Oct 2026)
-- 🤝 Code reviews, mentoring junior developers and working closely with QA and product
-- 🤖 Daily user of AI tooling (Claude, Cursor, Graphify) for faster, cleaner engineering
+- **Full Stack Developer at [Volta Health](https://volta.health)** (USA, remote): university healthcare management system, React Native, React and Express + Prisma
+- **Founder & Full Stack Developer of [Health & Lifts](#health-and-lifts)**, an AI-powered fitness platform for personal trainers and students that I built end to end (Dec 2025 – Oct 2026)
+- Code reviews, mentoring junior developers and working closely with QA and product
+- Daily user of AI tooling (Claude, Cursor, Graphify) for faster, cleaner engineering
 
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 **Frontend & mobile**
 
@@ -66,7 +66,7 @@ Full Stack Developer with **5 years of experience** building web and mobile appl
 
 <a id="health-and-lifts"></a>
 
-### 🏋️ Featured project: Health & Lifts
+### Featured project: Health & Lifts
 
 AI-powered fitness platform for personal trainers and students, founded and built from scratch: mobile app, admin console, backend and cloud infrastructure, with store releases and production operations.
 
@@ -84,11 +84,11 @@ AI-powered fitness platform for personal trainers and students, founded and buil
   <a href="https://gabrielmenezesnog.github.io/#projects"><img src="https://img.shields.io/badge/See%20it%20in%20my%20portfolio-FFBB00?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 </p>
 
-- 📱 React Native app with an AI trainer (OpenAI GPT, embeddings and RAG), workouts, nutrition, progress, hydration and cardio tracking
-- 🥗 Barcode scanning and food search powered by TACO, USDA and Open Food Facts
-- 🛠️ Next.js Admin Console with feature flags, subscriptions, users, support tickets, emails and campaigns
-- 💳 Stripe, Stripe Connect, RevenueCat and Google Play Billing; releases through Google Play Console
-- ☁️ AWS (Cognito, Aurora PostgreSQL, Lambda, S3, KMS) with Terraform and GitHub Actions CI/CD; MFA and Face Liveness
+- React Native app with an AI trainer (OpenAI GPT, embeddings and RAG), workouts, nutrition, progress, hydration and cardio tracking
+- Barcode scanning and food search powered by TACO, USDA and Open Food Facts
+- Next.js Admin Console with feature flags, subscriptions, users, support tickets, emails and campaigns
+- Stripe, Stripe Connect, RevenueCat and Google Play Billing; releases through Google Play Console
+- AWS (Cognito, Aurora PostgreSQL, Lambda, S3, KMS) with Terraform and GitHub Actions CI/CD; MFA and Face Liveness
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,aws,terraform,githubactions&theme=dark" />
@@ -96,11 +96,11 @@ AI-powered fitness platform for personal trainers and students, founded and buil
 
 ---
 
-### 💼 Experience
+### Experience
 
 | Role | Company | Period |
 |---|---|---|
-| Full Stack Developer | **Volta Health** 🇺🇸 | Feb 2025 – present |
+| Full Stack Developer | **Volta Health** | Feb 2025 – present |
 | Frontend Developer | **Multiplica Crédito & Investimento** | Aug 2024 – Feb 2025 |
 | Full Stack Developer | **Grupo Irrah – Plug Chat** | Sep 2023 – Aug 2024 |
 | Frontend Developer | **Astus** | Sep 2022 – Sep 2023 |
@@ -118,7 +118,7 @@ AI-powered fitness platform for personal trainers and students, founded and buil
 
 ---
 
-### 🎓 Education
+### Education
 
 - **IFPR – Federal Institute of Paraná**: Bachelor of Technology in Systems Analysis and Development (ongoing) · Technical Degree in Computer Science (2017 – 2021)
 - **Complementary courses:** Origamid and Udemy (React.js, TypeScript, Frontend Architecture, UI/UX)
