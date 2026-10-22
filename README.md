@@ -7,7 +7,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/gabrielmenezesnogueira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gabriel.gmnogueira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Paran%C3%A1%2C%20Brazil-2f8f9d?style=for-the-badge" />
+  <a href="https://gabrielmenezesnog.github.io/"><img src="https://img.shields.io/badge/Portfolio-FFBB00?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://youtu.be/Y9nqDsbuCYI"><img src="https://img.shields.io/badge/Presentation%20video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Curitiba%2C%20Paran%C3%A1-2f8f9d?style=for-the-badge" />
   <img src="https://img.shields.io/badge/English-Advanced-1e4d5c?style=for-the-badge" />
 </p>
 
@@ -15,9 +17,10 @@
 
 ### 👋 About me
 
-Full Stack Developer with **4 years of experience** building web and mobile applications for national and international teams. I like owning the whole lifecycle: architecture, infrastructure, frontend, backend, cloud deployment, mobile publishing and product.
+Full Stack Developer with **5 years of experience** building web and mobile applications for national and international teams. I like owning the whole lifecycle: architecture, infrastructure, frontend, backend, cloud deployment, mobile publishing and product.
 
 - 🏥 **Full Stack Developer at [Volta Health](https://volta.health)** (USA, remote): university healthcare management system, React Native, React and Express + Prisma
+- 🏋️ **Founder & Full Stack Developer of [Health & Lifts](#-featured-project-health--lifts)**, an AI-powered fitness platform for personal trainers and students that I built end to end (Dec 2025 – Oct 2026)
 - 🤝 Code reviews, mentoring junior developers and working closely with QA and product
 - 🤖 Daily user of AI tooling (Claude, Cursor, Graphify) for faster, cleaner engineering
 
@@ -61,6 +64,28 @@ Full Stack Developer with **4 years of experience** building web and mobile appl
 
 ---
 
+### 🏋️ Featured project: Health & Lifts
+
+AI-powered fitness platform for personal trainers and students, founded and built from scratch: mobile app, admin console, backend and cloud infrastructure, with store releases and production operations.
+
+<p>
+  <a href="https://youtu.be/16z4Dog5ZHw"><img src="https://i.ytimg.com/vi/16z4Dog5ZHw/hqdefault.jpg" alt="Watch the Health & Lifts video" width="360" /></a>
+</p>
+
+▶️ **[Watch the Health & Lifts video](https://youtu.be/16z4Dog5ZHw)** · 👋 **[Watch my presentation video](https://youtu.be/Y9nqDsbuCYI)** · 🌐 **[See it in my portfolio](https://gabrielmenezesnog.github.io/#projects)**
+
+- 📱 React Native app with an AI trainer (OpenAI GPT, embeddings and RAG), workouts, nutrition, progress, hydration and cardio tracking
+- 🥗 Barcode scanning and food search powered by TACO, USDA and Open Food Facts
+- 🛠️ Next.js Admin Console with feature flags, subscriptions, users, support tickets, emails and campaigns
+- 💳 Stripe, Stripe Connect, RevenueCat and Google Play Billing; releases through Google Play Console
+- ☁️ AWS (Cognito, Aurora PostgreSQL, Lambda, S3, KMS) with Terraform and GitHub Actions CI/CD; MFA and Face Liveness
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,aws,terraform,githubactions&theme=dark" />
+</p>
+
+---
+
 ### 💼 Experience
 
 | Role | Company | Period |
@@ -74,7 +99,7 @@ Full Stack Developer with **4 years of experience** building web and mobile appl
 <summary><b>Highlights</b></summary>
 <br />
 
-- **Volta Health:** hand-built a CMS-1500 PDF form with copy/print protection for insurance billing, and a Digital Health Network Card for mobile
+- **Volta Health:** cut the Immunizations table load time for 1,000 students from 54 s to 0.2 s (~270x faster) by removing O(n²) processing in the Express backend, and added TanStack Query caching for near-instant navigation; built a Figma webhook that keeps design tokens in sync, a Storybook design system shared across projects, a CMS-1500 PDF form with copy/print protection for insurance billing, and a Digital Health Network Card for mobile
 - **Multiplica:** fintech interfaces in React, including an operational spreadsheet with Brazilian tax adjustments over time; PR reviews and mentoring
 - **Plug Chat:** an automated IVR with triage routing (Next.js + Firebase), and v2 of the chat system with images, video, audio, documents and location (Spring Boot + Docker)
 - **Astus:** led the Android and iOS app in React Native, with a custom video player, PDF and image viewer and quizzes, designed first in Figma
@@ -86,6 +111,7 @@ Full Stack Developer with **4 years of experience** building web and mobile appl
 ### 🎓 Education
 
 - **IFPR – Federal Institute of Paraná**: Bachelor of Technology in Systems Analysis and Development (ongoing) · Technical Degree in Computer Science (2017 – 2021)
+- **Complementary courses:** Origamid and Udemy (React.js, TypeScript, Frontend Architecture, UI/UX)
 
 ---
 
