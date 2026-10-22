@@ -20,7 +20,7 @@
 Full Stack Developer with **5 years of experience** building web and mobile applications for national and international teams. I like owning the whole lifecycle: architecture, infrastructure, frontend, backend, cloud deployment, mobile publishing and product.
 
 - 🏥 **Full Stack Developer at [Volta Health](https://volta.health)** (USA, remote): university healthcare management system, React Native, React and Express + Prisma
-- 🏋️ **Founder & Full Stack Developer of [Health & Lifts](#-featured-project-health--lifts)**, an AI-powered fitness platform for personal trainers and students that I built end to end (Dec 2025 – Oct 2026)
+- 🏋️ **Founder & Full Stack Developer of [Health & Lifts](#health-and-lifts)**, an AI-powered fitness platform for personal trainers and students that I built end to end (Dec 2025 – Oct 2026)
 - 🤝 Code reviews, mentoring junior developers and working closely with QA and product
 - 🤖 Daily user of AI tooling (Claude, Cursor, Graphify) for faster, cleaner engineering
 
@@ -64,15 +64,25 @@ Full Stack Developer with **5 years of experience** building web and mobile appl
 
 ---
 
+<a id="health-and-lifts"></a>
+
 ### 🏋️ Featured project: Health & Lifts
 
 AI-powered fitness platform for personal trainers and students, founded and built from scratch: mobile app, admin console, backend and cloud infrastructure, with store releases and production operations.
 
-<p>
-  <a href="https://youtu.be/16z4Dog5ZHw"><img src="https://i.ytimg.com/vi/16z4Dog5ZHw/hqdefault.jpg" alt="Watch the Health & Lifts video" width="360" /></a>
+<p align="center">
+    <a href="https://youtu.be/16z4Dog5ZHw"><img src="https://raw.githubusercontent.com/gabrielmenezesnog/gabrielmenezesnog/main/assets/hl-home.jpg" alt="Health &amp; Lifts - home" width="150" /></a>
+    <a href="https://youtu.be/16z4Dog5ZHw"><img src="https://raw.githubusercontent.com/gabrielmenezesnog/gabrielmenezesnog/main/assets/hl-chat.jpg" alt="Health &amp; Lifts - chat" width="150" /></a>
+    <a href="https://youtu.be/16z4Dog5ZHw"><img src="https://raw.githubusercontent.com/gabrielmenezesnog/gabrielmenezesnog/main/assets/hl-workouts.jpg" alt="Health &amp; Lifts - workouts" width="150" /></a>
+    <a href="https://youtu.be/16z4Dog5ZHw"><img src="https://raw.githubusercontent.com/gabrielmenezesnog/gabrielmenezesnog/main/assets/hl-nutrition.jpg" alt="Health &amp; Lifts - nutrition" width="150" /></a>
+    <a href="https://youtu.be/16z4Dog5ZHw"><img src="https://raw.githubusercontent.com/gabrielmenezesnog/gabrielmenezesnog/main/assets/hl-progress.jpg" alt="Health &amp; Lifts - progress" width="150" /></a>
 </p>
 
-▶️ **[Watch the Health & Lifts video](https://youtu.be/16z4Dog5ZHw)** · 👋 **[Watch my presentation video](https://youtu.be/Y9nqDsbuCYI)** · 🌐 **[See it in my portfolio](https://gabrielmenezesnog.github.io/#projects)**
+<p align="center">
+  <a href="https://youtu.be/16z4Dog5ZHw"><img src="https://img.shields.io/badge/Watch%20the%20Health%20%26%20Lifts%20video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://youtu.be/Y9nqDsbuCYI"><img src="https://img.shields.io/badge/Presentation%20video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://gabrielmenezesnog.github.io/#projects"><img src="https://img.shields.io/badge/See%20it%20in%20my%20portfolio-FFBB00?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+</p>
 
 - 📱 React Native app with an AI trainer (OpenAI GPT, embeddings and RAG), workouts, nutrition, progress, hydration and cardio tracking
 - 🥗 Barcode scanning and food search powered by TACO, USDA and Open Food Facts
